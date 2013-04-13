@@ -1,4 +1,4 @@
-Octopress Bitcoin Donation Aside
+Octopress Flattr Donation Aside
 ================================
 
 This is a new custom aside for [Octopress](https://github.com/imathis/octopress?ref=commandbarr) that shows a button for [Flattr](http://www.flattr.com) in your sidebar.
