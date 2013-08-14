@@ -5,7 +5,7 @@ This is a new custom aside for [Octopress](https://github.com/imathis/octopress?
 
 To install copy the files included to your octopress installation.
 
-Obviously change the User Id to your own, or keep mine. I don't mind. ;)
+Set `flattr_uid`, `flattr_tags` (comma separated list) and `flattr_category` in your `_config.yml`.
 
 Then change the line:
 
