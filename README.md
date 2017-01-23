@@ -15,4 +15,5 @@ Add to it:
 
 `custom/asides/flattr.html`
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11342a8316554289a4f809e5f9848f4b)](https://www.codacy.com/app/PartTimeLegend/octopress-flattr-donation-aside?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/octopress-flattr-donation-aside&utm_campaign=badger)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/octopress-flattr-donation-aside&title=https://github.com/PartTimeLegend/octopress-flattr-donation-aside&language=&tags=github&category=software) 
